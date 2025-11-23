@@ -1,0 +1,3 @@
+opencv-python>=4.5.0
+fer>=22.5.0
+
