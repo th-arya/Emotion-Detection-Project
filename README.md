@@ -1,4 +1,4 @@
-# ImageEmo - Real-Time Emotion Detection
+Real-Time Emotion Detection
 
 A real-time facial emotion detection application that uses your webcam to detect and display emotions in real-time.
 
